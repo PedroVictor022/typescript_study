@@ -8,15 +8,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PedroBVictor/Typescript.git"
+    "url": "git+https://github.com/PedroBVictor/typescript_study.git"
   },
   "keywords": [],
   "author": "Pedro Victor",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/PedroBVictor/Typescript/issues"
-  },
-  "homepage": "https://github.com/PedroBVictor/Typescript#readme",
   "devDependencies": {
     "eslint": "^8.18.0",
     "ts-node": "^10.8.1",
