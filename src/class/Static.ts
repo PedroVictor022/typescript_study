@@ -15,7 +15,7 @@ export class Pessoa {
 
    // Voce nao consegue ter acesso a metodos estaticos pela instancia criada
    static falarOi(): void{
-      return console.log("Oii")
+      return console.log("Oi");
    }
    static criarPessoa(nome: string, sobrenome: string): Pessoa {
       return new Pessoa(nome, sobrenome, 0, "000-000-000-00");
